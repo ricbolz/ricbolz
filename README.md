@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hello to anyone who viewed my Github profile 
+
 My Name is Hendrico Vernando Bolang and i come from Indonesia. I'm currently studying in Japan as foreign student on preparatory course and I will enter the specialized training school to learn Information Processing .
 
 My interest is  Computer Security, Web Development, Data Science and Analytics
